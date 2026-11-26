@@ -1,2 +1,1 @@
-export {Sidebard} from './Sidebar'
-export {SidebardMenuItem} from './SidebarMenuItem'
+export { Sidebar } from './Sidebar';
